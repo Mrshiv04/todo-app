@@ -9,6 +9,7 @@ body {
 	margin: 40px auto;
 	border-radius: 10px;
 	text-align: center;
+	padding-bottom: 20px;
 }
 
 .App > h2 {
